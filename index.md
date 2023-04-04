@@ -1,5 +1,4 @@
-# Welcome to movie blog
-***
+# Welcome to my first page
 
 **[BLOG]**
 ***
